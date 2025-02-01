@@ -1,6 +1,6 @@
 # Assignment_1_CalculatorAndFibonacci_033
-Name: Daniel John Jacob
-PRN: 23070126027
+Name: Dhaerya More
+PRN: 23070126033
 Batch: 2023-27, AIML A2
 
 Overview
